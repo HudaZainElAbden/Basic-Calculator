@@ -1,1 +1,2 @@
-# Calculator-Flutter
+# Basic-Calculator
+Flutter mobile application
